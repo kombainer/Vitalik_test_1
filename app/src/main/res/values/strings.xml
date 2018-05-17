@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Best of the Best prilojenie</string>
+
+    <string name="text_1">Назва</string>
+    <string name="putanja_1">Питання_1</string>
+    <string name="btn_main_1">Тест</string>
+    <string name="btn_vidpovid_1">Відповідь_1</string>
+    <string name="btn_vidpovid_2">Відповідь_2</string>
+    <string name="btn_vidpovid_3">Відповідь_3</string>
+</resources>
